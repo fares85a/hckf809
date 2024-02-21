@@ -1,0 +1,10 @@
+{
+    "url": "https://jumpy-floor.surge.sh/test.yaml",
+    "urls": [
+        {
+            "url": "https://jumpy-floor.surge.sh/test.yaml",
+            "name": "Foo",
+            "description": "<img src=x onerror=\"alert('XSS')\">"
+        }
+    ]
+}

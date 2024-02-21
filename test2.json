@@ -1,10 +1,9 @@
 {
-    "url": "https://jumpy-floor.surge.sh/test.yaml",
+    "url": "https://fares85a.github.io/hckf809/exploit.yaml",
     "urls": [
         {
-            "url": "https://jumpy-floor.surge.sh/test.yaml",
-            "name": "Foo",
-            "description": "<img src=x onerror=\"alert('XSS')\">"
+            "url": "https://fares85a.github.io/hckf809/exploit.yaml",
+            "name": "FAFAFAFA"
         }
     ]
 }
